@@ -11,11 +11,19 @@
 
 - :volleyball: Gosto muito de praticar Vôlei e Vôlei de praia
 - :biking_man: Gosto de pedalar nas horas vagas
-- 
-- :e-mail: Meu email para eventuais contatos => romeucamurcarabelo@gmail.com
+- :e-mail: Meu email para eventuais contatos :arrow_right: romeucamurcarabelo@gmail.com
 - :man_student: Sou graduando em Redes de Computadores pela Universidade Federal do Ceará
 
 ### Skils de desenvolvimento
+
+<p>
+  <a><img src="https://images-github.s3.amazonaws.com/java.png" display="inline-block" alt="Java" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/html5.png" display="inline-block" alt="html5" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/css3.png" alt="css3" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/javascript.svg" alt="javascript" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/bootstrap-4.svg" alt="bootstrap-4" height="35"/></a>
+  <a><img src="" alt="" height="35"/></a>
+</p>
 
 
 
