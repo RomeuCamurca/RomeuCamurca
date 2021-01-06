@@ -16,7 +16,7 @@
 - :blue_book: Estudo atualmente desenvolvimento web com Spring Boot e Angular com foco em me tornar FullStack
 - :man_student: Sou graduando em Redes de Computadores pela Universidade Federal do Ceará
 
-### Skils de desenvolvimento
+### Skills de desenvolvimento
 
 <p>
   <a><img src="https://images-github.s3.amazonaws.com/java.svg" display="inline-block" alt="Java" height="35"/></a>
