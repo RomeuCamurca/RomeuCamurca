@@ -19,6 +19,7 @@
 <p>
   <a><img src="https://images-github.s3.amazonaws.com/java.svg" display="inline-block" alt="Java" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/spring.svg" alt="spring" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/thymeleaf.png" alt="thymeleaf" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/html5.png" display="inline-block" alt="html5" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/css3.png" alt="css3" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/javascript.svg" alt="javascript" height="35"/></a>
