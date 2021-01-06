@@ -17,12 +17,13 @@
 ### Skils de desenvolvimento
 
 <p>
-  <a><img src="https://images-github.s3.amazonaws.com/java.png" display="inline-block" alt="Java" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/java.svg" display="inline-block" alt="Java" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/html5.png" display="inline-block" alt="html5" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/css3.png" alt="css3" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/javascript.svg" alt="javascript" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/bootstrap-4.svg" alt="bootstrap-4" height="35"/></a>
-  <a><img src="" alt="" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/angular.svg" alt="angular" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/aws.svg" alt="aws" height="35"/></a>
 </p>
 
 
