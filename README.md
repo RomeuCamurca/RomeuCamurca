@@ -18,12 +18,19 @@
 
 <p>
   <a><img src="https://images-github.s3.amazonaws.com/java.svg" display="inline-block" alt="Java" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/spring.svg" alt="spring" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/html5.png" display="inline-block" alt="html5" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/css3.png" alt="css3" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/javascript.svg" alt="javascript" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/bootstrap-4.svg" alt="bootstrap-4" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/angular.svg" alt="angular" height="35"/></a>
   <a><img src="https://images-github.s3.amazonaws.com/aws.svg" alt="aws" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/git.svg" alt="git" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/github.svg" alt="github" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/jquery.svg" alt="jquery" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/json.svg" alt="json" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/mysql.svg" alt="mysql" height="35"/></a>
+  <a><img src="https://images-github.s3.amazonaws.com/postgresql.svg" alt="postgresql" height="35"/></a>
 </p>
 
 
