@@ -12,7 +12,7 @@
 - Gosto de praticar atividade fisica voltado aos esportes :volleyball: :soccer: :biking_man: :swimming_man:
 - :movie_camera: Gosto de nas horas vagas assistir filmes e séries
 - :e-mail: Meu email para eventuais contatos :arrow_right: romeucamurcarabelo@gmail.com
-- :blue_book: Estudo atualmente desenvolvimento web com Spring Boot e Angular com foco em me tornar FullStack
+- :blue_book: Estudo atualmente devops afim de seguir carreira futuramente nessa área.
 - :man_student: Sou graduando em Redes de Computadores pela Universidade Federal do Ceará
 
 
